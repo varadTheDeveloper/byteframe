@@ -1,0 +1,27 @@
+{
+  "name": "byteframe",
+  "version": "1.0.0",
+  "description": "Binary streaming protocol encoder and decoder",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": {
+    "name": "Varad Modhekar",
+    "email": "varadmodhekar@gmail.com",
+    "url": "https://github.com/varadTheDeveloper"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/varadTheDeveloper/byteframe"
+  }, 
+  "keywords": [
+    "binary",
+    "protocol",
+    "stream",
+    "parser",
+    "tcp",
+    "framing",
+    "websocket"
+  ]
+}
